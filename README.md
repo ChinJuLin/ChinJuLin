@@ -5,7 +5,7 @@
 I turn messy business data into decisions: who to target, where to spend, and what to fix first.
 My work covers dashboarding (Tableau), market analysis (Python), optimisation (Excel Solver + VBA) and explainable machine learning.
 
-📫 jinru890528@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/wendylin0528) · 📊 [Tableau Public](https://public.tableau.com/app/profile/<your-tableau-profile>)
+📫 jinru890528@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/wendylin0528) · 📊 [Tableau Public](https://public.tableau.com/app/profile/chinjulin/vizzes)
 
 ---
 
